@@ -14,6 +14,8 @@ namespace SimpleUtilityClass
 
             TimeUtilClass.PrintDate();
             TimeUtilClass.PrintTime();
+
+            Console.ReadLine();
         }
     }
 }
